@@ -62,4 +62,5 @@ while(secim != 5):
     
     else:
          print("Geçerli bir işlem girmediniz.")
+     
 
