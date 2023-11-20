@@ -53,10 +53,12 @@ for klasor in klasorler:
             print(f"{klasor} ürünlerinin {content} adet stoğu bulunmakta")
     
 
-# [1,2,3]
+# [1,2,3,4]
 
-# 1->harfler
-# 2->sayılar
+# 1->büyük harf
+# 2->küçük harf
 # 3->noktalama
-
+# 4-> rakamlar
 # kaç karakter, uzunluk
+
+
